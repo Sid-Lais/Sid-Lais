@@ -1,14 +1,19 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Sid+here.;Just+started+to+code.;Wanting+to+learn+so+much.+%F0%9F%98%84">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Sid+here.;Just+started+to+code.;Wanting+to+learn+so+much.+%F0%9F%98%84"></a>
 <h3 align="center">A passionate coder and explorer from India</h3>
 
 <br>
 
-- 🌱 I’m currently learning **DSA+JAVA**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **sidlais.ls@gmail.com**
 
 - ⚡ Fun fact **we can brainstorm for other stuff than code**
+
+## 🎧 Spotify Playing
+
+
+[![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
