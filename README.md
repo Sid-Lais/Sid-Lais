@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddarth Laishram</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Just+started+to+code;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Just+started+to+code;Always+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">A passionate coder and explorer from India</h3>
 
 <br>
