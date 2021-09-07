@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA+JAVA**
 
 - 📫 How to reach me **sidlais.ls@gmail.com**
 
