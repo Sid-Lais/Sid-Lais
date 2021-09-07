@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidlais351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidlais351" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sid-lais" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sid-lais" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidlais" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sidlais" height="30" width="40" /></a>
 <a href="https://instagram.com/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid-lais" height="30" width="40" /></a>
 <a href="https://discord.gg/SidLais#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SidLais#1337" height="30" width="40" /></a>
