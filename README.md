@@ -1,15 +1,3 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on making myself better
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with learning
-- 💬 Ask me about resources
-- 📫 How to reach me: [Instagram](www.instagram.com/sidlais)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Can talk bout other stuff than code
-
 <h1 align="center">Hi 👋, I'm Siddarth Laishram</h1>
 <h3 align="center">A passionate coder and explorer from India</h3>
 
@@ -28,11 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidlais351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidlais351" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sid lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sid lais" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lais siddarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lais siddarth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sid-lais" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sid-lais" height="30" width="40" /></a>
 <a href="https://instagram.com/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid-lais" height="30" width="40" /></a>
-<a href="https://discord.gg/Sid Lais#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sid Lais#1337" height="30" width="40" /></a>
+<a href="https://discord.gg/SidLais#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SidLais#1337" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
