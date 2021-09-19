@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sidlais.ls@gmail.com**
 
-- ⚡ Fun fact **we can brainstorm for other stuff than code**
+- ⚡ Fun fact **we can brainstorm on other stuff than code**
 
 ## 🎧 Spotify Playing
 
