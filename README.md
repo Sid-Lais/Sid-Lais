@@ -23,7 +23,7 @@
 <a href="https://instagram.com/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sid-lais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid-lais" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sidlaisls/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sidlaisls/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/SidLais#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SidLais#1337" height="30" width="40" /></a>
+<a href="https://discord.gg/SidLais#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SidLais#3148" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
