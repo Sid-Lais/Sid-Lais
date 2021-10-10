@@ -49,4 +49,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sid-lais&label=Profile%20views&color=0e75b6&style=flat">
 </a>
-<a href="https://github.com/Sid-Lais?tab=followers"><img src="https://img.shields.io/github/followers/Sid-Lais?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sid-Lais?tab=followers"><img src="https://img.shields.io/github/followers/Sid-Lais?label=Followers&style=social" alt="GitHub"></a>
