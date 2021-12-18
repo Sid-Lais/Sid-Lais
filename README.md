@@ -3,7 +3,7 @@
 <h3 align="center">A passionate coder and explorer from India</h3>
 
 
-<img src="https://user-images.githubusercontent.com/40291960/146634881-fc0f2027-53a6-4a57-8eca-5b834aea1539.png" align="right" style="width: 200px ">
+<img src="https://user-images.githubusercontent.com/40291960/146634881-fc0f2027-53a6-4a57-8eca-5b834aea1539.png" align="right" style="width: 230px ">
 
 
 I use standard HTML tags, like
