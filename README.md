@@ -6,8 +6,6 @@
 <img src="https://user-images.githubusercontent.com/40291960/146634881-fc0f2027-53a6-4a57-8eca-5b834aea1539.png" align="right" style="width: 230px ">
 
 
-I use standard HTML tags, like
-
 <!--- (Illustration from Icons 8 (https://icons8.com/illustrations) by Ouch! (https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6))-->
 
 <br>
