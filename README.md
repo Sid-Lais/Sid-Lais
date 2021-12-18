@@ -26,7 +26,7 @@ I use standard HTML tags, like
 
 [![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
-<img src="https://user-images.githubusercontent.com/40291960/146635109-6072271f-1b28-495d-814d-43135a623931.png" align="right" style="width: 500px">
+<img src="https://user-images.githubusercontent.com/40291960/146635109-6072271f-1b28-495d-814d-43135a623931.png" align="right" style="width: 400px">
 <h2 >Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 <a href="https://twitter.com/sidlais351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidlais351" height="30" width="40" /></a>
