@@ -3,7 +3,7 @@
 <h3 align="center">A passionate coder and explorer from India</h3>
 
 
-<img src="https://user-images.githubusercontent.com/40291960/146634881-fc0f2027-53a6-4a57-8eca-5b834aea1539.png" align="right" style="width: 150px ">
+<img src="https://user-images.githubusercontent.com/40291960/146634881-fc0f2027-53a6-4a57-8eca-5b834aea1539.png" align="right" style="width: 200px ">
 
 
 I use standard HTML tags, like
@@ -22,7 +22,7 @@ I use standard HTML tags, like
 
 ## 🎧 Spotify Playing
 
-<img src="https://user-images.githubusercontent.com/40291960/146635346-1043de6c-31b6-4478-98c1-d56132a5830c.png" align="right" style="width: 150px">
+<img src="https://user-images.githubusercontent.com/40291960/146635346-1043de6c-31b6-4478-98c1-d56132a5830c.png" align="right" style="width: 200px">
 
 [![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
