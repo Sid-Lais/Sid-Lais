@@ -50,7 +50,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </details><br>
 
