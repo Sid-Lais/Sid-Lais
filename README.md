@@ -50,7 +50,7 @@
 
 ## My Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='23px'>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 
