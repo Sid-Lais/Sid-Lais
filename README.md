@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA + DevOps**
 
 - 📫 Reach me at **sidlais.ls@gmail.com**
 
