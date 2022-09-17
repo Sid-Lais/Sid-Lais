@@ -15,6 +15,8 @@
 
 <br>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=default)
+
 ## 🎧 Spotify Playing
 
 [![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
