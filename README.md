@@ -13,13 +13,16 @@
 
 - ⚡ Fun fact **we can brainstorm on other stuff than code**
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=default)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ## 🎧 Spotify Playing
 
 [![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
+
 
 <h2 >Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"></h2>
 <p align="left">
@@ -58,3 +61,5 @@
     <img src="https://komarev.com/ghpvc/?username=sid-lais&label=Profile%20views&color=0e75b6&style=flat">
 </a>
 <a href="https://github.com/Sid-Lais?tab=followers"><img src="https://img.shields.io/github/followers/Sid-Lais?label=Followers&style=social" alt="GitHub"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
