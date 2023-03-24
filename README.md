@@ -28,7 +28,7 @@
 <p align="left">
 
 <a href="https://twitter.com/sidlais351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidlais351" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sid-lais-91673b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sid-lais-91673b213" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laishram-siddarth-91673b213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laishram-siddarth" height="30" width="40" /></a>
 <a href="https://instagram.com/sidlais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidlais" height="30" width="40" /></a>
 
 </p>
