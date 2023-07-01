@@ -23,9 +23,6 @@
 
 [![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
-## 🎧 Apple Music
-
-[![Apple Music](https://github-profile-apple-music.web.app/api/v1/users/94YPVtMR2tiEhErDebZP/recent/played/tracks?template=template_1_3)](https://music.apple.com/profile/sidlais)
 
 
 <h2 >Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"></h2>
