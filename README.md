@@ -62,7 +62,12 @@
 
 ## My Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="23">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Sid-Lais&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-Lais&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Sid-Lais&theme=solarized-light&hide_border=true&background=FFFFFF00">
+</p>
+
 
 <br>
 
