@@ -67,14 +67,3 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-Lais&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Sid-Lais&theme=solarized-light&hide_border=true&background=FFFFFF00">
 </p>
-
-
-<br>
-
- ## 💙 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sid-lais&label=Profile%20views&color=0e75b6&style=flat">
-</a>
-<a href="https://github.com/Sid-Lais?tab=followers"><img src="https://img.shields.io/github/followers/Sid-Lais?label=Followers&style=social" alt="GitHub"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
