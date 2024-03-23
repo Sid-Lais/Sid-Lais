@@ -64,3 +64,6 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-Lais&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Sid-Lais&theme=solarized-light&hide_border=true&background=FFFFFF00">
 </p>
+
+
+  ![](./bottom.svg)
