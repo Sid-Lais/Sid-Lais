@@ -1,20 +1,23 @@
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Sid+here.;Wanting+to+learn+so+much.+%F0%9F%98%84"></a>
-<h3 align="center">A passionate coder and explorer from India</h3>
 
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <h3 align="center">A passionate coder and explorer from India</h3>
+    <br>
+    <ul>
+      <li>🌱 I’m currently learning <strong>DevOps</strong></li>
+      <li>📫 Reach me at <strong>sidlais.ls@gmail.com</strong></li>
+      <li>⚡ Fun fact <strong>we can brainstorm on other stuff than code</strong></li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="analyst.gif" width="600" height="300" style="float: right;">
+  </div>
+</div>
 
-<!--- (Illustration from Icons 8 (https://icons8.com/illustrations) by Ouch! (https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6))-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 📫 Reach me at **sidlais.ls@gmail.com**
-
-- ⚡ Fun fact **we can brainstorm on other stuff than code**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
