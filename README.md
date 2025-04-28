@@ -1,4 +1,4 @@
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Sid+here.;A+passionate+tinkerer+&+explorer.+%F0%9F%98%84"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hey+%F0%9F%91%8B+Sid+here.;A+tinkerer+and+explorer.+%F0%9F%98%84"></a>
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
