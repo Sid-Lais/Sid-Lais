@@ -2,14 +2,6 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
-    <h3 align="center">A passionate coder and explorer</h3>
-    <br>
-    <ul>
-      <li>📫 Reach me at <strong>sidlais.ls@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>we can brainstorm on other stuff than code</strong></li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
     <img src="analyst.gif" width="600" height="300" style="float: right;">
   </div>
 </div>
