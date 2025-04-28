@@ -5,7 +5,6 @@
     <h3 align="center">A passionate coder and explorer from India</h3>
     <br>
     <ul>
-      <li>🌱 I’m currently learning <strong>DevOps</strong></li>
       <li>📫 Reach me at <strong>sidlais.ls@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>we can brainstorm on other stuff than code</strong></li>
     </ul>
