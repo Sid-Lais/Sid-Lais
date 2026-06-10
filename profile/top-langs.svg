@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="109.34"
+          width="109.4"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="109.34"
+          x="109.4"
           y="0"
-          width="35.86"
+          width="35.84"
           height="8"
           fill="#DA5B0B"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="145.2"
+          x="145.24"
           y="0"
-          width="27.58"
+          width="27.57"
           height="8"
           fill="#f1e05a"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="172.77999999999997"
+          x="172.81"
           y="0"
-          width="23.73"
+          width="23.72"
           height="8"
           fill="#e34c26"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="196.50999999999996"
+          x="196.53"
           y="0"
-          width="19.4"
+          width="19.39"
           height="8"
           fill="#00B4AB"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.90999999999997"
+          x="215.92000000000002"
           y="0"
-          width="18.4"
+          width="18.39"
           height="8"
           fill="#663399"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.30999999999997"
+          x="234.31"
           y="0"
-          width="18.119999999999997"
+          width="18.11"
           height="8"
           fill="#3572A5"
         />
@@ -198,9 +198,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.42999999999998"
+          x="242.42000000000002"
           y="0"
-          width="17.59"
+          width="17.58"
           height="8"
           fill="#f34b7d"
         />
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 43.74%
+        TypeScript 43.76%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
