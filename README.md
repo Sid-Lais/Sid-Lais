@@ -11,15 +11,10 @@
 <h3 align="center">Tryna be Indie Hacker</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;+%3E+If+It+Compiles%2C+It's++Staying;Architecting+and+breaking+systems+like+a+menace alt="Typing SVG" />
 </p>
 
-<p align="center">
-Architecting and breaking systems like a menace, one line at a time.
-</p>
-
-
-##  <h2 align="center">🚀 About Me </h2>
+##  <h2 align="center">About Me </h2>
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
@@ -30,7 +25,7 @@ I enjoy dribbling around with new tech I can get my hands on and buliding, scali
 I am in need, the need for on call and prod breaks at 3am.
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+ <h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/Sid-Lais">
@@ -46,7 +41,7 @@ I am in need, the need for on call and prod breaks at 3am.
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,gcp,linux,vim,js,prometheus,terraform,supabase,python,fastapi,postgres,mysql,github,vscode,html,css,tailwind" />
