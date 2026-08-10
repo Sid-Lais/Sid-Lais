@@ -2,7 +2,7 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hey+%F0%9F%91%8B+Sid+here.;A+tinkerer+and+explorer.+%F0%9F%98%84"></a>
+<!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hey+%F0%9F%91%8B+Sid+here.;A+tinkerer+and+explorer.+%F0%9F%98%84"></a> -->
 
 <br>
 
@@ -27,6 +27,7 @@ Architecting and breaking systems like a menace, one line at a time.
 
 I enjoy dribbling around with new tech I can get my hands on and buliding, scaling then breaking on prod.
 
+I am in need, the need for on call and prod breaks at 3am.
 <br clear="right"/>
 
  <h2 align="center">🤝 Connect</h2>
