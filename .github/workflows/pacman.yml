@@ -67,4 +67,4 @@ jobs:
           build_dir: dist
           keep_history: false
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
