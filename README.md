@@ -57,7 +57,7 @@ I am in need, the need for on call and prod breaks at 3am.
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://novatorem-beta.vercel.app/api/spotify)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
+[![Spotify](https://novatorem-beta.vercel.app/api/orchestrator)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
 
 
 <br>
