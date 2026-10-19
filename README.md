@@ -57,7 +57,9 @@ I am in need, the need for on call and prod breaks at 3am.
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://novatorem-beta.vercel.app/api/orchestrator)](https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a)
+<div align="center">
+  <a href="https://open.spotify.com/user/50avazzeh8nlat0p9gojkz70g?si=06c92ec885954e8a"><img src="https://novatorem-beta.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff" alt="Spotify now playing" /></a>
+</div>
 
 
 <br>
