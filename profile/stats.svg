@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sid Lais' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 1991, Total PRs: 441, Total Issues: 9, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 1996, Total PRs: 443, Total Issues: 9, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 82.91216387492337;
+        stroke-dashoffset: 85.97322323581962;
       }
     }
   
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >441</text>
+      >443</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >28</text>
+      >30</text>
     </g>
   </g>
     </svg>
